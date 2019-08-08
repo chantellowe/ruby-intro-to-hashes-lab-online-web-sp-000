@@ -55,7 +55,7 @@ def monopoly_with_fourth_tier
 	    pieces: 4,
 	    :names => {
 	      :reading_railroad => {
-	        
+	        "mortgage_value"
 	      },
 	      :pennsylvania_railroad => {
 	        
